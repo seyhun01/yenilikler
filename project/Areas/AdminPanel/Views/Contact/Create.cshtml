@@ -1,0 +1,65 @@
+﻿@using OganiShoppingProject.Models
+@model Contact
+
+<!-- partial -->
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title"> Yeni Məlumat</h4>
+
+                        <form class="forms-sample" method="post" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label asp-for="MapAddress">Xəritə linki</label>
+                                <input asp-for="MapAddress" type="text" class="form-control" id="exampleInputUsername1" placeholder="Link">
+
+
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Address">Ünvan</label>
+                                <input asp-for="Address" type="text" class="form-control" id="exampleInputUsername1" placeholder="Unvan">
+
+
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="PhoneNumber">Telefon Nömrəsi</label>
+                                <input asp-for="PhoneNumber" type="text" class="form-control" id="exampleInputUsername1" placeholder="Nömrə">
+
+
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email">Email</label>
+                                <input asp-for="Email" type="text" class="form-control" id="exampleInputUsername1" placeholder="Email">
+
+
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Country">Ölkə</label>
+                                <input asp-for="Country" type="text" class="form-control" id="exampleInputUsername1" placeholder="Ölkə">
+
+
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="OpenTime">Açıq vaxtlar</label>
+                                <input asp-for="OpenTime" class="form-control" id="exampleInputUsername1" placeholder="ZAman">
+
+                                <span asp-validation-for="OpenTime"></span>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary me-2">Qeyd Edin</button>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- content-wrapper ends -->
+
+</div>
+<!-- main-panel ends -->

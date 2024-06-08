@@ -1,0 +1,81 @@
+﻿@using OganiShoppingProject.ViewModel
+@model PaginationVM<Contact>
+@{
+    int count = 1;
+}
+<div class="col-lg-9 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Məlumatlar</h4>
+
+            <a asp-controller="Contact" asp-action="Create" type="button" class="btn btn-info">Yeni  Məlumatlar</a>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Sıra Nömrəsi</th>
+                            <th>Xəritə linki</th>
+                            <th>Ünvan</th>
+                            <th>Acıq zamanlar</th>
+                            <th>Email</th>
+                            <th>Ölkə</th>
+                            <th>Telefon Nömrəsi</th>
+
+                            <th>Settings</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Items)
+                        {
+                            <tr>
+                                <td>@(count++)</td>
+
+                                <td>@item.MapAddress</td>
+                                <td>@item.Address</td>
+                                <td>@item.OpenTime</td>
+                                <td>@item.Email</td>
+                                <td>@item.Country</td>
+                                <td>@item.PhoneNumber</td>
+
+                                <td>
+                                    <a asp-controller="Contact" asp-action="Update" asp-route-Id="@item.İd" class="btn btn-success"><i class="mdi mdi-lead-pencil"></i></a>
+                                    <a asp-controller="Contact" asp-action="Delete" asp-route-Id="@item.İd" class="btn btn-warning"><i class="mdi mdi-delete"></i></a>
+
+                                </td>
+                            </tr>
+                        }
+
+
+
+
+
+
+
+
+                    </tbody>
+                </table>
+                <div>
+                    <nav aria-label="...">
+
+                        <ul class="pagination">
+                            @if (Model.CurrentPage != 0)
+                            {
+                                <a class="page-link" asp-action="Index" asp-route-page="@(Model.CurrentPage-1)">Evvelki</a>
+                            }
+                            @for (int i = 0; i < Model.TotalPage; i++)
+                            {
+                                <a class="page-link @(i==Model.CurrentPage?"disable": "")" asp-action="Index" asp-route-page="@i">@(i + 1) </a>
+                            }
+                            @if (Model.CurrentPage + 1 < Model.TotalPage)
+                            {
+                                <a class="page-link" asp-action="Index" asp-route-page="@(Model.CurrentPage+1)">sonraki</a>
+                            }
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

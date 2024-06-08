@@ -1,0 +1,87 @@
+﻿@using OganiShoppingProject.ViewModel.Shop
+@model ProductDetailsVM
+
+
+
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg" data-setbg="assets/img/breadcrumb.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Səbət</h2>
+                    <div class="breadcrumb__option">
+                        <a asp-controller="Home" asp-action="Index">Əsas Səhifə</a>
+
+
+                        <span>Səbət</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Shoping Cart Section Begin -->
+<section class="shoping-cart spad">
+    <div class="container">
+        <form method="post">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="shoping__cart__table">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th class="shoping__product">Məhsullar</th>
+
+                                    <th>Qiymət</th>
+
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+
+                                <tr>
+                                    <td class="shoping__cart__item">
+
+                                        <img asp-for="basket.Image" src="~/Assets/img/@Model.product.Image" alt="">
+                                        <input asp-for="basket.Name"> @Model.product.Name
+
+                                    </td>
+
+
+
+                                    <td asp-for="basket.Price" class="shoping__cart__price">
+
+                                        Azn @Model.product.Price
+                                    </td>
+
+                                    <td class="shoping__cart__item__close">
+                                        <button type="submit" class="primary-btn">Təsdiq Edin</button>
+                                    </td>
+                                </tr>
+
+
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="shoping__cart__btns">
+                    <a asp-controller="Shop" asp-action="index" class="primary-btn cart-btn">Alışverişə davam edin</a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- Shoping Cart Section End -->

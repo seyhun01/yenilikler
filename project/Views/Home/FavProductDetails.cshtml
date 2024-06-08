@@ -1,0 +1,105 @@
+﻿@using OganiShoppingProject.ViewModel.Home
+@using OganiShoppingProject.Models.MaintoMain
+@model FavoriteProductDetailsVM
+
+
+<!-- Breadcrumb Section Begin -->
+<section class="breadcrumb-section set-bg">
+    <img src="~/Assets/img/breadcrumb.jpg" alt="" />
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="breadcrumb__text">
+                    <h2>Məhsul</h2>
+                    <div class="breadcrumb__option">
+                        <a asp-controller="Home" asp-action="index">Əsas Səhifə</a>
+                        <a asp-controller="Shop" asp-action="index">Məhsullar</a>
+                        <span>Məhsul</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Product Details Section Begin -->
+<section class="product-details spad">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__pic">
+                    <div class="product__details__pic__item">
+                        <img class="product__details__pic__item--large"
+                             src="~/Assets/img/@Model.favoriteproduct.Image" alt="">
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6">
+                <div class="product__details__text">
+                    <h3>@Model.favoriteproduct.Name</h3>
+
+                    <div class="product__details__price">@Model.favoriteproduct.Price AZN</div>
+                    <p>
+                        @Model.favoriteproduct.Decs
+                    </p>
+
+                    <a asp-controller="Home" asp-action="BasketDetails" asp-route-Id="@Model.favoriteproduct.Id" class="primary-btn">Səbətə əlavə edin</a>
+
+                    <ul>
+                        <li><b>Movcudluğu </b> <span>@Model.favoriteproduct.InStock</span></li>
+
+                        <li>
+                            <b>Ölçüsü</b> <span>
+                                @foreach (SizeofFavoriteProduct item in Model.favoriteproduct.SizeofFavoriteProducts)
+                                {
+                                    @item.Sizes.Name
+                                }
+                            </span>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- Product Details Section End -->
+<!-- Related Product Section Begin -->
+<section class="related-product">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title related__product__title">
+                    <h2>Digər Məhsullar</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (var item in Model.favoriteproducts)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="product__item">
+                        <div class="product__item__pic set-bg">
+                            <img src="~/Assets/img/@item.Image" />
+                            <ul class="product__item__pic__hover">
+
+                                <li><a asp-controller="Home" asp-action="BasketDetails" asp-route-Id="@item.Id"><i class="fa fa-shopping-cart"></i></a></li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a asp-controller="Shop" asp-action="FavProductDetails" asp-route-Id="@item.Id">@item.Name</a></h6>
+                            <h5>@item.Price AZN</h5>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</section>
+<!-- Related Product Section End -->
