@@ -1,0 +1,58 @@
+﻿@using WareHause.Models
+@model List<Fruit>
+@{
+    int count = 1;
+}
+<div class="col-lg-9 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Meyvelər</h4>
+
+            <a asp-controller="Fruit" asp-action="Create" type="button" class="btn btn-info">Yeni Məhsul</a>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Sira Nomresi</th>
+                            <th>Məhsul adı</th>
+                            <th>Məhsul sayı</th>
+                            <th>Məhsul istifadə tarixi</th>
+
+                            <th>Settings</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (Fruit item in Model)
+                        {
+
+                            <tr>
+                                <td>@(count++)</td>
+
+                                <td>@item.Name</td>
+                                <td>@item.Number</td>
+                                <td>@item.Endtime</td>
+
+                                <td>
+                                    <a asp-controller="Fruit" asp-action="Update" asp-route-Id="@item.Id" class="btn btn-success"><i class="mdi mdi-lead-pencil"></i></a>
+                                    <a asp-controller="Fruit" asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-warning"><i class="mdi mdi-delete"></i></a>
+
+                                </td>
+                            </tr>
+
+                        }
+
+
+
+
+
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</div>

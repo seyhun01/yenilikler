@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WareHause
+build_property.RootNamespace = WareHause
+build_property.ProjectDir = C:\Users\ASUS\source\repos\WareHause\WareHause\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\source\repos\WareHause\WareHause
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Chocolate/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvY29sYXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Chocolate/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvY29sYXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Chocolate/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hvY29sYXRlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Fruit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1aXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Fruit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1aXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Fruit/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1aXRcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/MilkProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlsa1Byb2R1Y3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/MilkProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlsa1Byb2R1Y3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/MilkProduct/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlsa1Byb2R1Y3RcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/source/repos/WareHause/WareHause/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1a0ogjga7p

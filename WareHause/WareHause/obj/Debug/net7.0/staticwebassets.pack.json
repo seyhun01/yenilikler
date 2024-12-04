@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WareHause.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WareHause.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\2379fd230bfbf292a0cd0f0645c35ceb.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\2379fd230bfbf292a0cd0f0645c35ceb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\WareHause\\WareHause\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WareHause.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WareHause.props",
+      "PackagePath": "build\\WareHause.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WareHause.props",
+      "PackagePath": "buildMultiTargeting\\WareHause.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WareHause.props",
+      "PackagePath": "buildTransitive\\WareHause.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

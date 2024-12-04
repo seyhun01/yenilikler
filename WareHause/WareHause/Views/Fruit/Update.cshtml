@@ -1,0 +1,31 @@
+﻿@using WareHause.Models
+@model Fruit
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Məhsul Dəyişikliyi</h4>
+
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    <label asp-for="Name">Məhsul adı</label>
+                    <input asp-for="Name" type="text" class="form-control" placeholder="Məhsul adı">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Number">Məhsul sayı</label>
+                    <input asp-for="Number" type="text" class="form-control" placeholder="Məhsul sayı">
+                    <span asp-validation-for="Number"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Endtime">Məhsul istifadə  vaxtı</label>
+                    <input asp-for="Endtime" type="text" class="form-control" placeholder="Məhsul istifadə vaxtı">
+                    <span asp-validation-for="Endtime"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary mr-2">Qeyd Edin</button>
+
+            </form>
+        </div>
+    </div>
+</div>
+
